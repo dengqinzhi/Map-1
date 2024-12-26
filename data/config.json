@@ -51,20 +51,5 @@
         
         "freq": 1
     },
-      {
-        "latLng": [29.40, 106.54],
-        "name": "重庆",
-        "articleUrl": "https://qinzhi.cc",
-        "desc": "重庆 - 2/2014", 
 
-        "freq": 3
-    }
-    {
-        "latLng": [31.40, 121.48],
-        "name": "上海",
-        "articleUrl": "https://qinzhi.cc/",
-        "desc": "上海 - 10/2023",
-
-        "freq": 1
-    },
 ]
