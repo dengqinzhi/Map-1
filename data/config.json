@@ -51,10 +51,26 @@
         
         "freq": 1
     },
-    {
+      {
+        "latLng": [29.40, 106.54],
+        "name": "重庆",
+        "articleUrl": "https://qinzhi.cc",
+        "desc": "重庆 - 2/2014", 
+
+        "freq": 3
+    }
+{
         "latLng": [29.20, 119.75],
-        "name": "浙江 · 金华",
-        "desc": "义乌市义南纸业有限公司新增印染废水好氧处理系统改扩建工程 - 8/2017",         
+        "name": "上海",
+         "articleUrl": "https://qinzhi.cc",
+        "desc": "上海 - 8/2023",    
+         "photos":[          
+            "https://img.qinzhi.cc/2023/11/20231121095242871-scaled.jpg",
+            "https://img.qinzhi.cc/2023/11/20231121095142607-scaled.jpg",
+            "https://img.qinzhi.cc/2023/11/20231121095411398-scaled.jpg",
+            "https://img.qinzhi.cc/2023/11/20231121095507890-scaled.jpg",
+            "https://img.qinzhi.cc/2023/11/20231121095540609-scaled.jpg"
+        ], 
         "freq": 3
     }
 ]
