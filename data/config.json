@@ -60,5 +60,12 @@
 
         "freq": 1
     }
+    {
+        "latLng": [30.77, 120.75,
+        "name": "浙江 · 嘉兴",
+        "articleUrl": "https://qinzhi.cc",
+        "desc": "嘉兴 - 2/2014", 
 
+        "freq": 1
+    }
 ]
