@@ -19,16 +19,16 @@
         "articleUrl": "https://qinzhi.cc",        
         "desc": "汉中 - 8/1998",
         "photos":[
-            "https://",            
-            "https://",
-            "https://"
+            "",            
+            "",
+            ""
         ],        
         "freq": 3
     },
     {
         "latLng": [30.35, 105.45],
         "name": "四川 · 遂宁",
-        "articleUrl": "https://www.80srz.com/posts/1322.html",
+        "articleUrl": "https://qinzhi.cc",
         "desc": "遂宁    - 12/2010",
         "photos":[
             "",            
@@ -39,7 +39,7 @@
     {
         "latLng": [24.88, 118.61],
         "name": "福建 · 泉州",
-        "articleUrl": "https://www.80srz.com/posts/1322.html",
+        "articleUrl": "https://qinzhi.cc",
         "desc": "泉州 - 1/2004",
         "photos":[         
             ""
