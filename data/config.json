@@ -19,9 +19,7 @@
         "articleUrl": "https://qinzhi.cc",        
         "desc": "汉中 - 8/1998",
         "photos":[
-            "",            
-            "",
-            ""
+
         ],        
         "freq": 3
     },
@@ -29,10 +27,9 @@
         "latLng": [30.35, 105.45],
         "name": "四川 · 遂宁",
         "articleUrl": "https://qinzhi.cc",
-        "desc": "遂宁    - 12/2010",
+        "desc": "遂宁   - 12/2010",
         "photos":[
-            "",            
-            ""
+
         ],        
         "freq": 2
     },
@@ -42,30 +39,108 @@
         "articleUrl": "https://qinzhi.cc",
         "desc": "泉州 - 1/2004",
         "photos":[         
-            ""
+
         ],         
         "freq": 1
     },
     {
-        "latLng": [30.73, 111.31],
-        "name": "湖北 · 宜昌",
-        "articleUrl": "https://www.80srz.com/posts/1322.html",
-        "desc": "湖北鑫物再生纸业有限公司污水处理站 - 10/2016",
+        "latLng": [24.48, 118.03],
+        "name": "福建 · 厦门",
+        "articleUrl": "https://qinzhi.cc",
+        "desc": "厦门 - 10/2006",
+        "photos":[         
+
+        ],         
         "freq": 1
     },
     {
-        "latLng": [37.52, 122.09],
-        "name": "山东 · 威海",
-        "desc": "荣成市海盛纸业有限公司污水处理厂 - 6/2017",
+        "latLng": [26.04, 119.27],
+        "name": "福建 · 福州",
+        "articleUrl": "https://qinzhi.cc",
+        "desc": "福州 - 11/2008",
         "photos":[          
-            "https://www.shejidaren.com/wp-content/uploads/2024/01/unnamed-file-16.jpg"
+            ""
         ],          
         "freq": 1
     },
     {
+        "latLng": [29.40, 106.54],
+        "name": "重庆",
+        "articleUrl": "https://qinzhi.cc",
+        "desc": "重庆 - 2/2014", 
+        "photos":[          
+            ""
+        ], 
+        "freq": 3
+    }
+
+     {
+        "latLng": [29.20, 119.75],
+        "name": "上海",
+         "articleUrl": "https://qinzhi.cc",
+        "desc": "上海 - 8/2023",    
+         "photos":[          
+            "https://img.qinzhi.cc/2023/11/20231121095242871-scaled.jpg"
+            "https://img.qinzhi.cc/2023/11/20231121095142607-scaled.jpg"
+            "https://img.qinzhi.cc/2023/11/20231121095411398-scaled.jpg"
+            "https://img.qinzhi.cc/2023/11/20231121095507890-scaled.jpg"
+            "https://img.qinzhi.cc/2023/11/20231121095540609-scaled.jpg"
+        ], 
+        "freq": 3
+    }
+
+     {
         "latLng": [29.20, 119.75],
         "name": "浙江 · 金华",
-        "desc": "义乌市义南纸业有限公司新增印染废水好氧处理系统改扩建工程 - 8/2017",         
+         "articleUrl": "https://qinzhi.cc",
+        "desc": "义乌市义南纸业有限公司新增印染废水好氧处理系统改扩建工程 - 8/2017",   
+         "photos":[          
+            ""
+        ], 
+        "freq": 3
+    }
+
+     {
+        "latLng": [29.20, 119.75],
+        "name": "浙江 · 金华",
+         "articleUrl": "https://qinzhi.cc",
+        "desc": "义乌市义南纸业有限公司新增印染废水好氧处理系统改扩建工程 - 8/2017",       
+         "photos":[          
+            ""
+        ], 
+        "freq": 3
+    }
+
+     {
+        "latLng": [29.20, 119.75],
+        "name": "浙江 · 金华",
+         "articleUrl": "https://qinzhi.cc",
+        "desc": "义乌市义南纸业有限公司新增印染废水好氧处理系统改扩建工程 - 8/2017",       
+         "photos":[          
+            ""
+        ], 
+        "freq": 3
+    }
+
+     {
+        "latLng": [29.20, 119.75],
+        "name": "浙江 · 金华",
+         "articleUrl": "https://qinzhi.cc",
+        "desc": "义乌市义南纸业有限公司新增印染废水好氧处理系统改扩建工程 - 8/2017",   
+         "photos":[          
+            ""
+        ], 
+        "freq": 3
+    }
+
+     {
+        "latLng": [29.20, 119.75],
+        "name": "浙江 · 金华",
+         "articleUrl": "https://qinzhi.cc",
+        "desc": "义乌市义南纸业有限公司新增印染废水好氧处理系统改扩建工程 - 8/2017",       
+         "photos":[          
+            ""
+        ], 
         "freq": 3
     }
 ]
