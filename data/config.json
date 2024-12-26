@@ -12,55 +12,5 @@
         ],
         "freq": 4
     },
-    
-    {
-        "latLng": [33.06,107.03],
-        "name": "陕西 · 汉中",
-        "desc": "汉中 - 8/1998",
-        "freq": 3
-    },
-    {
-        "latLng": [30.35,105.45],
-        "name": "四川 · 遂宁",
-        "desc": "遂宁 - 12/2010",
-        "freq": 1
-    },
-    {
-        "latLng": [24.88,118.61],
-        "name": "福建 · 泉州",
-        "desc": "泉州 - 1/2004",
-        "freq": 8
-    },
-    {
-        "latLng": [24.48,118.03],
-        "name": "福建 · 厦门",
-        "desc": "厦门 - 10/2006",
-        "freq": 3
-    },
-    {
-        "latLng": [26.04, 119.27],
-        "name": "福建 · 福州",
-        "desc": "福州 - 11/2008",
-        "freq": 1
-    },
-    {
-        "latLng": [29.40, 106.54],
-        "name": "重庆",
-        "desc": "重庆 - 2/2014",
-        "freq": 1
-    },
-    {
-        "latLng": [31.40, 121.48],
-        "name": "上海",
-        "desc": "上海",
-        "photos":[
-           "https://img.qinzhi.cc/2023/11/20231121095242871-scaled.jpg",
-            "https://img.qinzhi.cc/2023/11/20231121095142607-scaled.jpg",
-            "https://img.qinzhi.cc/2023/11/20231121095411398-scaled.jpg",
-            "https://img.qinzhi.cc/2023/11/20231121095507890-scaled.jpg",
-            "https://img.qinzhi.cc/2023/11/20231121095540609-scaled.jpg"
-        ],
-        "freq": 1
-    },
 
 ]
