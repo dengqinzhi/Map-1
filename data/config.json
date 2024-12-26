@@ -19,15 +19,12 @@
         "desc": "汉中 - 8/1998",
         "freq": 3
     },
-    {
-        "latLng": [29.88, 114.30],
-        "name": "湖北 · 咸宁",
-        "articleUrl": "https://www.80srz.com/posts/1322.html",
-        "desc": "武汉汉麻生物科技有限公司废水处理工程 - 4/2016",
-        "photos":[
-            "https://www.shejidaren.com/wp-content/uploads/2024/01/unnamed-file-17.jpg",            
-            "https://www.shejidaren.com/wp-content/uploads/2024/01/unnamed-file-16.jpg"
-        ],        
+      {
+        "latLng": [30.35, 105.45],
+        "name": "四川 · 遂宁",
+        "articleUrl": "https://qinzhi.cc",
+        "desc": "遂宁 - 12/2010",
+       
         "freq": 2
     },
     {
