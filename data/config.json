@@ -27,30 +27,28 @@
        
         "freq": 2
     },
-    {
-        "latLng": [30.33, 112.24],
-        "name": "湖北 · 荆州",
-        "articleUrl": "https://www.80srz.com/posts/1322.html",
-        "desc": "湖北华丽染料工业有限公司污水处理站 - 6/2016",
-        "photos":[         
-            "https://www.shejidaren.com/wp-content/uploads/2024/01/unnamed-file-16.jpg"
-        ],         
+   {
+        "latLng": [24.88, 118.61],
+        "name": "福建 · 泉州",
+        "articleUrl": "https://qinzhi.cc",
+        "desc": "泉州 - 1/2004",
+       
         "freq": 1
     },
     {
-        "latLng": [30.73, 111.31],
-        "name": "湖北 · 宜昌",
-        "articleUrl": "https://www.80srz.com/posts/1322.html",
-        "desc": "湖北鑫物再生纸业有限公司污水处理站 - 10/2016",
+        "latLng": [24.48, 118.03],
+        "name": "福建 · 厦门",
+        "articleUrl": "https://qinzhi.cc",
+        "desc": "厦门 - 10/2006",
+        
         "freq": 1
     },
-    {
-        "latLng": [37.52, 122.09],
-        "name": "山东 · 威海",
-        "desc": "荣成市海盛纸业有限公司污水处理厂 - 6/2017",
-        "photos":[          
-            "https://www.shejidaren.com/wp-content/uploads/2024/01/unnamed-file-16.jpg"
-        ],          
+     {
+        "latLng": [26.04, 119.27],
+        "name": "福建 · 福州",
+        "articleUrl": "https://qinzhi.cc",
+        "desc": "福州 - 11/2008",
+        
         "freq": 1
     },
     {
