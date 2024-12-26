@@ -33,7 +33,7 @@
         "articleUrl": "https://qinzhi.cc",
         "desc": "泉州 - 1/2004",
        
-        "freq": 1
+        "freq": 7
     },
     {
         "latLng": [24.48, 118.03],
@@ -59,18 +59,18 @@
 
         "freq": 3
     }
-     {
-        "latLng": [31.40, 121.48],
+    {
+        "latLng": [34.23, 108.93],
         "name": "上海",
-         "articleUrl": "https://qinzhi.cc",
-        "desc": "上海 - 8/2023",    
-         "photos":[          
+        "articleUrl": "https://qinzhi.cc/",
+        "desc": "上海",
+         "photos":[    
             "https://img.qinzhi.cc/2023/11/20231121095242871-scaled.jpg",
             "https://img.qinzhi.cc/2023/11/20231121095142607-scaled.jpg",
             "https://img.qinzhi.cc/2023/11/20231121095411398-scaled.jpg",
             "https://img.qinzhi.cc/2023/11/20231121095507890-scaled.jpg",
             "https://img.qinzhi.cc/2023/11/20231121095540609-scaled.jpg"
-        ], 
-        "freq": 3
-    }
+               ],
+        "freq": 1
+    },
 ]
