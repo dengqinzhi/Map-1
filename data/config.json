@@ -75,29 +75,5 @@
         ], 
         "freq": 3
     }
-    {
-        "latLng": [33.06, 107.03],
-        "name": "陕西 · 汉中",
-        "articleUrl": "https://qinzhi.cc",        
-        "desc": "汉中 - 8/1998",
-       
-        "freq": 3
-    },
 
-        {
-        "latLng": [33.06, 107.03],
-        "name": "陕西 · 汉中",
-        "articleUrl": "https://qinzhi.cc",        
-        "desc": "汉中 - 8/1998",
-      
-        "freq": 3
-    },
-        {
-        "latLng": [33.06, 107.03],
-        "name": "陕西 · 汉中",
-        "articleUrl": "https://qinzhi.cc",        
-        "desc": "汉中 - 8/1998",
-       
-        "freq": 3
-    },
 ]
