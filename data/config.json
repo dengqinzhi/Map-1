@@ -12,21 +12,4 @@
                ],
         "freq": 5
     },
-    {
-        "latLng": [33.06, 107.03],
-        "name": "陕西 · 汉中",
-        "articleUrl": "https://qinzhi.cc",        
-        "desc": "汉中 - 8/1998",
-        "freq": 3
-    },
-      {
-        "latLng": [30.35, 105.45],
-        "name": "四川 · 遂宁",
-        "articleUrl": "https://qinzhi.cc",
-        "desc": "遂宁 - 12/2010",
-       
-        "freq": 2
-    },
-
-
 ]
