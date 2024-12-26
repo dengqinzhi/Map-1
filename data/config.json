@@ -35,21 +35,6 @@
        
         "freq": 7
     },
-    {
-        "latLng": [24.48, 118.03],
-        "name": "福建 · 厦门",
-        "articleUrl": "https://qinzhi.cc",
-        "desc": "厦门 - 10/2006",
-        
-        "freq": 1
-    },
-     {
-        "latLng": [26.04, 119.27],
-        "name": "福建 · 福州",
-        "articleUrl": "https://qinzhi.cc",
-        "desc": "福州 - 11/2008",
-        
-        "freq": 1
-    },
+
 
 ]
